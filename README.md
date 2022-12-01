@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SolidityDrone
 - 👀 I’m interested in Blockchain technology
 - 🌱 I’m currently learning and i'll always be
-- 💞️ I’m 
 - 📫 Send me an NFT with PolyMessage 👀
 
 <!---
