@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Claudio @SolidityDrone
+- 👋 Hi, I’m @SolidityDrone
 - 👀 I’m interested in evms 
 - 🌱 I’m currently learning and i'll always be, looking for remote job
 - 📫 contact me pnn.claudio@gmail.com
