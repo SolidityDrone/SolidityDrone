@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SolidityDrone
+- 👋 Hi, I’m Claudio @SolidityDrone
 - 👀 I’m interested in evms 
-- 🌱 I’m currently learning and i'll always be, looking for remote only collabs
+- 🌱 I’m currently learning and i'll always be, looking for remote job
 - 📫 contact me pnn.claudio@gmail.com
 <!---
 SolidityDrone/SolidityDrone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
