@@ -5,7 +5,7 @@
 - 👀 I’m not interested in paleolithic
 - 🌱 I’m currently learning and i'll always be, looking for remote job
 - 📫 contact me pnn.claudio@gmail.com
-- (+) Researched trough AMM, Swaps, OnChain Gaming, Rental Protocols based on NFTs
+- (+) Researched trough AMM, Defi, OnChain Gaming, Rental Protocols based on NFTs, ZkSnarks
 
 <!---
 SolidityDrone/SolidityDrone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
