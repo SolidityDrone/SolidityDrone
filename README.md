@@ -4,7 +4,6 @@
 - 👀 I’m interested in EVMs - Solidity 
 - 👀 I’m not interested in paleolithic
 - 🌱 Never stop learning and i'll always be
-- 📫 contact me pnn.claudio@gmail.com
 - 
 - (+) Async Hackatons hunter
 <!---
