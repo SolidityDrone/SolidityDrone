@@ -20,7 +20,7 @@
 | **ETH Rome** | Vox | 🥇 1st Place (Privacy Track), 🥇 1st Place (zkPass), 🥈 2nd Place (Privy), 🥉 3rd Prize (Fhenix) | zkPass, Privy, Fhenix | Trio |
 | **ETH Bucharest 2024** | [Espresso](https://dorahacks.io/buidl/10874) | 🥇 1st Place (Base, Request & Sablier bounties) | Sablier, Base | Duo |
 | **Scaling Ethereum 2024** | [Colibri](https://ethglobal.com/showcase/colibri-iixxk) | 🥈 2nd Place (RISC Zero bounty) | RISC Zero | Duo |
-| **ETHGlobal Superhack** | [Optionism](https://ethglobal.com/showcase/optionism-tr8uf) | 🥇 1st Place (Pyth Network bounty) | Pyth Network, Gelato, Goldsky subgraph | Solo |
+| **ETHGlobal Superhack** | [Optionism](https://ethglobal.com/showcase/optionism-tr8uf) | 🥈 2nd Place (Pyth Network bounty) | Pyth Network, Gelato, Goldsky subgraph | Solo |
 | **Chainlink Blockmagic** | Opto | 🥈 2nd Place (Polygon bounty) | Polygon, Chainlink Functions, Automation | Duo |
 | **EthOnline '24 | [Kartik's Adventures](https://ethglobal.com/showcase/kartik-adventures-6ntyp) | ✨ Avail prize | Avail, Unity Engine, Stackr | solo |
 | **Brian Hack** | Briannah | 🥈 Brian, 🥇 idk | Uniswap v4 hook | trio |
