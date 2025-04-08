@@ -15,7 +15,6 @@
 | Event | Project | Achievement | Personal stack on project | Team Size |
 |-------|---------|-------------|-----------------|-----------|
 | **Pancake x Brevis Hookaton** | [Smart Liquidity v4 Hook (Stable)](https://dorahacks.io/buidl/16770) | 🥇 1st Place  | Brevis v4 Hook, Pancake | Solo |
-
 | **ETHGlobal LFGHO** | [GHOst](https://ethglobal.com/showcase/ghost-mae3q) | 🏆 Ethglobal Finalist, Aave Integration Prize | Aave Thirdweb | Quad |
 | **ETH Rome** | Vox | 🥇 1st Place (Privacy Track), 🥇 1st Place (zkPass), 🥈 2nd Place (Privy), 🥉 3rd Prize (Fhenix) | zkPass, Privy, Fhenix | Trio |
 | **ETH Bucharest 2025** | [Arbitrum Stylus DeFi Vault](https://dorahacks.io/buidl/25568) | 🥉 3rd Place Overall, 🥉 3rd Place Token Metric, ✨ Arbitrum Honorable Mention ✨ Arbitrum prize  | Arbitrum Stylus  | Trio |
