@@ -14,7 +14,7 @@
 
 | Event | Project | Achievement | Personal stack on project | Team Size |
 |-------|---------|-------------|-----------------|-----------|
-| **NoirHack '25 | [Gazometer](https://github.com/SolidityDrone/Gazometer) | None but glory | Noir, smart contracts, frontend | Solo | 
+| **NoirHack '25** | [Gazometer](https://github.com/SolidityDrone/Gazometer) | None but glory | Noir, smart contracts, frontend | Solo | 
 | **Pancake x Brevis Hookaton** | [Smart Liquidity v4 Hook (Stable)](https://dorahacks.io/buidl/16770) | 🥇 1st Place  | Brevis v4 Hook, Pancake | Solo |
 | **ETHGlobal LFGHO** | [GHOst](https://ethglobal.com/showcase/ghost-mae3q) | 🏆 Ethglobal Finalist, Aave Integration Prize | Aave Thirdweb | Quad |
 | **ETH Rome** | Vox | 🥇 1st Place (Privacy Track), 🥇 1st Place (zkPass), 🥈 2nd Place (Privy), 🥉 3rd Prize (Fhenix) | zkPass, Privy, Fhenix | Trio |
