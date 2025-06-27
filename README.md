@@ -14,6 +14,7 @@
 
 | Event | Project | Achievement | Personal stack on project | Team Size |
 |-------|---------|-------------|-----------------|-----------|
+| **GasOps** | [GasOps](https://devfolio.co/projects/gasops-07b1) | - Awaiting - | Smart contracts, Frontend, Subgraphs | Solo | 
 | **Remote** | [Remote](https://ethglobal.com/showcase/remote-913v9) |🥇 1st place Layerzero Composability, 🥈 2nd place Flow Crosschain app | Smart contracts and coffè | Trio ( dream team )  | 
 | **NoirHack '25** | [Gazometer](https://github.com/SolidityDrone/Gazometer) | This project was simply not judged 🏆 | Noir, smart contracts, frontend | Solo | 
 | **Pancake x Brevis Hookaton** | [Smart Liquidity v4 Hook (Stable)](https://dorahacks.io/buidl/16770) | 🥇 1st Place  | Brevis v4 Hook, Pancake | Solo |
@@ -24,13 +25,9 @@
 | **ETH Bucharest 2024** | [Espresso](https://dorahacks.io/buidl/10874) | 🥇 1st Place (Base, Request & Sablier bounties) | Sablier, Base | Duo |
 | **Scaling Ethereum 2024** | [Colibri](https://ethglobal.com/showcase/colibri-iixxk) | 🥈 2nd Place (RISC Zero bounty) | RISC Zero | Duo |
 | **ETHGlobal Superhack** | [Optionism](https://ethglobal.com/showcase/optionism-tr8uf) | 🥈 2nd Place (Pyth Network bounty) | Pyth Network, Gelato, Goldsky subgraph | Solo |
-| **Chainlink Blockmagic** | Opto | 🥈 2nd Place (Polygon bounty) | Polygon, Chainlink Functions, Automation | Duo |
 | **EthOnline '24** | [Kartik's Adventures](https://ethglobal.com/showcase/kartik-adventures-6ntyp) | ✨ Avail prize | Avail, Unity Engine, Stackr | solo |
 | **Brian Hack** | Briannah | 🥈 Brian, 🥇 idk | Uniswap v4 hook | trio |
 | **EthPrague '24** | CaptainHappyHook | 🥈 Uniswap second place | Uniswap v4 Hook | trio |
-
-
-
 
 
 <!---
