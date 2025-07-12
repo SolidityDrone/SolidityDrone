@@ -14,6 +14,7 @@
 
 | Event | Project | Achievement | Personal stack on project | Team Size |
 |-------|---------|-------------|-----------------|-----------|
+| **Substream** | [Substream](https://ethglobal.com/showcase/substream-msjk1) | |🥇 1st place Ens most creative use - 🥉 3rd place Intmax  | Intmax integration - Ens integration| Duo | 
 | **GasOps** | [GasOps](https://devfolio.co/projects/gasops-07b1) | - Awaiting - | Smart contracts, Frontend, Subgraphs | Solo | 
 | **Remote** | [Remote](https://ethglobal.com/showcase/remote-913v9) |🥇 1st place Layerzero Composability, 🥈 2nd place Flow Crosschain app | Smart contracts and coffè | Trio ( dream team )  | 
 | **NoirHack '25** | [Gazometer](https://github.com/SolidityDrone/Gazometer) | This project was simply not judged 🏆 | Noir, smart contracts, frontend | Solo | 
